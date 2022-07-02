@@ -2,3 +2,4 @@ new song
 hello Git
 HELLO
 smth went wrong
+everything is ok now
