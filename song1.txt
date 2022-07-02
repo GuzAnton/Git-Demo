@@ -1,3 +1,4 @@
 new song
 hello Git
 HELLO
+smth went wrong
